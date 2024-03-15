@@ -1,0 +1,12 @@
+Vivian Ngan
+101224068
+Assignment 3, Question 1
+
+Setup Instructions
+- Open q1.sql in PgAdmin database query tool
+- Change lines 7-11 of q1.py to connect to your database
+- run the queries
+
+Running Instructions
+- In the terminal type in: pip install psycopg2-binary
+- run application with: python q1.py
